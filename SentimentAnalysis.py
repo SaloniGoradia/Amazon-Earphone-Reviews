@@ -15,10 +15,10 @@ sia = SentimentIntensityAnalyzer()
 #pip install textblob
 from textblob import TextBlob
 import plotly.graph_objs as go
-nltk.download('punkt')
-nltk.download('averaged_perceptron_tagger')
-nltk.download('wordnet')
-nltk.download('stopwords')
+#nltk.download('punkt')
+#nltk.download('averaged_perceptron_tagger')
+#nltk.download('wordnet')
+#nltk.download('stopwords')
 from wordcloud import WordCloud
 from PIL import Image
 
