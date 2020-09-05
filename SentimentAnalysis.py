@@ -9,7 +9,7 @@ import plotly as ply
 import plotly.express as px
 import streamlit as st
 import nltk
-nltk.data.path.append('./nltk_data/')
+nltk.data.path.append('C:/Users/sgoradia/Desktop/Python/SentimentAnalysis/nltk_data')
 nltk.downloader.download('vader_lexicon')
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 sia = SentimentIntensityAnalyzer()
