@@ -1,1 +1,2 @@
-# Sentiment-Analysis-Heroku
+# Sentiment-Analysis
+Amazon Earphone Reviews
